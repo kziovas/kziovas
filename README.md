@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning good coding practises, software design patterns, deployement of pipelines, 
 developing and deploying web application with machine learning models and more...
 - 💞️ I’m looking to collaborate on any cool project that combines Python, ML and robots 🤖...
-- 📫 REach at: kz.coding@yahoo.com
+- 📫 Rach me at: kz.coding@yahoo.com
 
 <!---
 kziovas/kziovas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
