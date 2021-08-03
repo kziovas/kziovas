@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kziovas
 - 🛠️ I have a strong background in engineering but fell in love with programming and data science so I changed focus
-- 👀 I’m mainly interested in Python, backend application development, data science, machnile learning and building robots for fun!
+- 👀 I’m mainly interested in Python, backend application development, data science, machine learning and building robots for fun!
 - 🌱 I’m currently learning good coding practises, software design patterns, deployement of pipelines, 
 developing and deploying web application with machine learning models and more...
 - 💞️ I’m looking to collaborate on any cool project that combines Python, ML and robots 🤖...
