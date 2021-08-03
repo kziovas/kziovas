@@ -4,7 +4,16 @@
 - 🌱 I’m currently learning good coding practises, software design patterns, deployement of pipelines, 
 developing and deploying web application with machine learning models and more...
 - 💞️ I’m looking to collaborate on any cool project that combines Python, ML and robots 🤖...
-- 📫 Rach me at: kz.coding@yahoo.com
+- 📫 Reach me at: kz.coding@yahoo.com
+- 
+
+![Kostas' GitHub stats](https://github-readme-stats.vercel.app/api?username=kziovas&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kziovas&layout=compact)](https://github.com/kziovas/github-readme-stats)
+
+
+
+
 
 <!---
 kziovas/kziovas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
