@@ -5,7 +5,6 @@
 developing and deploying web application with machine learning models and more...
 - 💞️ I’m looking to collaborate on any cool project that combines Python, ML and robots 🤖...
 - 📫 Reach me at: kz.coding@yahoo.com
-- 
 
 ![Kostas' GitHub stats](https://github-readme-stats.vercel.app/api?username=kziovas&show_icons=true&theme=dark)
 
